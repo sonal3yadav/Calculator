@@ -10,37 +10,52 @@
 </head>
 
 <body>
-  <h1 class="text-center">Welcome to Calculate me!</h1>
-  <div class="container flex flex-col items-center mx-auto m-w-20">
-    <div class="row">
-      <input class="input" type="text"/>
-    </div>
-    
-    <div class="row">
-      <button class="button">7</button>
-      <button class="button">8</button>
-      <button class="button">9</button>
-      <button class="button">*</button>
-    </div>
-    <div class="row">
-      <button class="button">4</button>
-      <button class="button">5</button>
-      <button class="button">6</button>
-      <button class="button">/</button>
-    </div>
-    <div class="row">
-      <button class="button">1</button>
-      <button class="button">2</button>
-      <button class="button">3</button>
-      <button class="button">+</button>
-    </div>
-    <div class="row">
-      <button class="button">0</button>
-      <button class="button">.</button>
-      <button class="button">=</button>
-      <button class="button">-</button>
-    </div>
-  </div>
+  <div class="container">
+    <h1>Calculator</h1>
+    <input type="text" name="screen" id="screen">
+    <table>
+        <tr>
+            <td><button id="down">(</button></td>
+            <td><button id="down">)</button></td>
+            <td><button id="down">C</button></td>
+            <td><button id="down">/</button></td>
+        </tr>
+
+        <tr>
+            <td><button>7</button></td>
+            <td><button>8</button></td>
+            <td><button>9</button></td>
+            <td><button id="down">X</button></td>
+        </tr>
+
+        <tr>
+            <td><button>4</button></td>
+            <td><button>5</button></td>
+            <td><button>6</button></td>
+            <td><button id="down">-</button></td>
+        </tr>
+
+        <tr>
+            <td><button>1</button></td>
+            <td><button>2</button></td>
+            <td><button>3</button></td>
+            <td><button id="down">+</button></td>
+        </tr>
+
+        <tr>
+            <td><button>0</button></td>
+            <td><button>.</button></td>
+            <td><button>%</button></td>
+            <td><button id="up">=</button></td>
+        </tr>
+        <tr>
+            <td><button>del</button></td>
+            <td><button>sqrt</button></td>
+            <td><button>hty</button></td>
+        </tr>
+
+    </table>
+</div>
   <script src="script.js"></script>
 </body>
 
