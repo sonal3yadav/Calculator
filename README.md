@@ -5,3 +5,7 @@
 # Deployment
 
 https://udit9876gupta.github.io/Calculator/
+
+## How to contribute?
+
+We recommend you to go through the [CONTRIBUTING.md](https://github.com/sonal3yadav/Calculator/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
