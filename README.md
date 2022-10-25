@@ -12,7 +12,7 @@ A calculator is a device that performs arithmetic operations on numbers. Basic c
 ## Multiplication
  The multiplication (times function) is used by clicking on the "x" button or using the keyboard"*" key. The function results in a*b.
 ## Division
- The division (divide function) is used by clicking on the "/" button or using the keyboard "/"key. The function results in a/b.
+ The division (divide function) is used by clicking on the "÷" button or using the keyboard "÷"key. The function results in a/b.
 # Features
 
 - Light/dark mode toggle
