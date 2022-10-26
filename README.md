@@ -27,9 +27,13 @@ A calculator is a device that performs arithmetic operations on numbers. Basic c
 
 - Light Mode
 ![Logo](https://cdn.discordapp.com/attachments/957279066552172576/1034426052224765983/unknown.png)
-# Deployment
 
+# Deployment
 https://udit9876gupta.github.io/Calculator/
 
 
+## How to contribute?
+We recommend you to go through the [CONTRIBUTING.md](https://github.com/sonal3yadav/Calculator/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
+
 ## Happy Calculating :) 
+=======
