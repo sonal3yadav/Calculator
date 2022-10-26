@@ -16,6 +16,7 @@ A calculator is a device that performs arithmetic operations on numbers. Basic c
 # Features
 
 - Light/dark mode toggle (using the button at top right corner )
+- History button (at top left corner)
 - Live previews
 - Fullscreen mode
 - Cross platform
@@ -23,10 +24,11 @@ A calculator is a device that performs arithmetic operations on numbers. Basic c
 
 # Demo
 - Dark Mode
-![image1](https://cdn.discordapp.com/attachments/957279066552172576/1034425953453092884/unknown.png)
+![1](https://user-images.githubusercontent.com/66108853/197937800-e3a38091-b3f5-4e1f-b96c-5388e376b035.png)
+
 
 - Light Mode
-![Logo](https://cdn.discordapp.com/attachments/957279066552172576/1034426052224765983/unknown.png)
+![2](https://user-images.githubusercontent.com/66108853/197938106-75a31915-778d-42b9-9603-a8d9e90e28ff.png)
 
 
 ## How to contribute?
